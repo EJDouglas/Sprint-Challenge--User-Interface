@@ -322,7 +322,8 @@ footer nav a {
     margin-bottom: 40px;
 }
 
-footer nav {
+footer .A {
 
     color: white; 
+    background: grey; 
 }
