@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-Semantic HTML gives a web page meaning, unlike CSS which makes it stylish. 
+Semantic HTML gives a web page meaning and makes it readable, unlike CSS which makes it stylish. 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
