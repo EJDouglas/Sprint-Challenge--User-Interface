@@ -265,3 +265,64 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+.container-about-page {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.About {
+
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+    margin-bottom: 40px;
+    border-bottom: 1px dashed black;
+}
+
+
+
+.groupOne {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    text-align: left;
+    
+}
+
+.groupTwo {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    text-align: left;
+    
+}
+
+.Strategy {
+
+    border-bottom: 1px dashed black;
+}
+
+.How {
+    border-bottom: 1px dashed black;
+}
+
+.Places {
+    border-bottom: 1px dashed black;
+}
+
+.Collaboration {
+    border-bottom: 1px dashed black;
+}
+
+.Together {
+    margin-bottom: 40px;
+}
+
+footer nav {
+
+    color: white; 
+}
